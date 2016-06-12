@@ -1,0 +1,71 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B0B5DD08262BE3600DE44113B2F6C05A57A622DA" : 0,
+    "8DD6DD38B5169A7D978BCECA3D38ACDB8B92D6FC" : 0,
+    "3B79DA68C6AB4FBA02E34F6788F81A3B8AFAA234" : 0,
+    "8512D66407CAC9D52CC625F6A30E050804050555" : 0,
+    "3990B5EDA49B1955CCB238D996318FC4F0883AB0" : 0,
+    "35700B11C1370A7A97B516F606354492F6E56B94" : 0,
+    "878B76D1CC1AAB666853D03DA98E47AADC2C449E" : 0,
+    "08BF9FC3641D0F2E08AB4DDB19809EE238BAD0F6" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C1204ABF-2175-4EC0-8784-7D4ECDE73D12",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B0B5DD08262BE3600DE44113B2F6C05A57A622DA" : "RSSelectionViewController\/",
+    "8DD6DD38B5169A7D978BCECA3D38ACDB8B92D6FC" : "RSDatePickerController\/",
+    "3B79DA68C6AB4FBA02E34F6788F81A3B8AFAA234" : "RSWordDetectorTextView\/",
+    "8512D66407CAC9D52CC625F6A30E050804050555" : "RSSegmentViewController\/",
+    "3990B5EDA49B1955CCB238D996318FC4F0883AB0" : "RSWebSearchTableView\/",
+    "35700B11C1370A7A97B516F606354492F6E56B94" : "RSNetworkKit\/",
+    "878B76D1CC1AAB666853D03DA98E47AADC2C449E" : "RSUtilities\/",
+    "08BF9FC3641D0F2E08AB4DDB19809EE238BAD0F6" : "RSMasterTableView\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "RSMasterKit",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "RSMasterKit.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rushisangani\/RSMasterTableView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "08BF9FC3641D0F2E08AB4DDB19809EE238BAD0F6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rushisangani\/RSNetworkKit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "35700B11C1370A7A97B516F606354492F6E56B94"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rushisangani\/RSWebSearchTableView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3990B5EDA49B1955CCB238D996318FC4F0883AB0"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rushisangani\/RSWordDetectorTextView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3B79DA68C6AB4FBA02E34F6788F81A3B8AFAA234"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rushisangani\/RSSegmentViewController.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8512D66407CAC9D52CC625F6A30E050804050555"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rushisangani\/RSUtilities.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "878B76D1CC1AAB666853D03DA98E47AADC2C449E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rushisangani\/RSDatePickerController.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8DD6DD38B5169A7D978BCECA3D38ACDB8B92D6FC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rushisangani\/RSSelectionViewController.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B0B5DD08262BE3600DE44113B2F6C05A57A622DA"
+    }
+  ]
+}
